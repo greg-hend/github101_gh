@@ -3,3 +3,7 @@ def add(a,b):
 
 def printf(msg):
     print(msg)
+
+def print_greg():
+    print("Greg")
+    
